@@ -5,4 +5,6 @@ core python scripts for purpose of submission
 
 | # | Name | Actions |
 | --- | --- | --- |
-| 1 | Code Challenge 1 | [Go to code]()|
+| 1 | Code Challenge 1 | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/basics_1)|
+| 2 | Code Challenge 2 | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/basics_2)|
+| 3 | Code Challenge 3 | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/basics_3)|
