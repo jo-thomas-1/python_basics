@@ -4,7 +4,7 @@ def month(x):
 	return months[x - 1]
 
 
-value = int(input("Enter the month value: "))
+value = int(input("Enter the month value [1 - 12]: "))
 print("Month:", month(value))
 
 # Create a function to calculate simple interest
