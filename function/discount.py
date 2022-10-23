@@ -8,6 +8,6 @@ def student_discount(amount):
 def regular_discount(amount):
     return amount - (amount * 0.05)
 
-price = 300
+price = float(input("Enter the price: "))
 print("Product price:", price)
 print("Discounted price:", regular_discount(student_discount(price)))

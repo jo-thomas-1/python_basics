@@ -1,0 +1,3 @@
+# OOP Code Challenge
+
+Using the concept of object-oriented programming and inheritance, create a super class named vehicles, which has two subclasses named car and bike. Define two methods in the vehicles class named getspecs and displayspecs, to get the specifications and display the specifications of the vehicles. You can use any specifications which you want. The car class and the bike class should have one specification which is exclusive to them for example wheels can have marks as a special specification. Make sure that the sub classes have their own methods to get and display their special specification. Create an object of car/ bike and make sure to call all the methods from the vehicle class as well as the methods from the own class.
