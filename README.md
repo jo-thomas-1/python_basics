@@ -20,4 +20,5 @@ core python scripts for purpose of submission
 | 12  | Class                 | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/class)               |
 | 13  | Object Oriented (OOP) | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/oop)                 |
 | 14  | Python GUI - Tkinter  | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/tkinter)             |
-| 14  | Text to speech        | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/text_to_speech)      |
+| 15  | Text to speech        | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/text_to_speech)      |
+| 16  | QR Code generator     | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/qr_code)             |
