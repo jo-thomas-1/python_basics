@@ -21,24 +21,22 @@ class Vehicles:
 
 class Car(Vehicles):
     def __init__(self):
-        super().__init__()
         self.seat_count = 0
         self.wheel_count = 4
 
-    def getspecs(self):
+    def car_getspecs(self):
         self.color = input("Enter car color: ")
         self.gear_type = input("Enter gear type: ")
         self.seat_count = input("Enter seat count: ")
 
-    def displayspecs(self):
+    def car_displayspecs(self):
         print("Car color:", self.color)
         print("Wheel count:", self.wheel_count)
         print("Gear type:", self.gear_type)
-        print("Seat count:", self.gear_type)
+        print("Seat count:", self.seat_count)
 
 class Bike(Vehicles):
     def __init__(self):
-        super().__init__()
         self.side_seat = True
         self.wheel_count = 2
 
@@ -55,3 +53,5 @@ class Bike(Vehicles):
 swift = Car()
 swift.getspecs()
 swift.displayspecs()
+swift.car_getspecs()
+swift.car_displayspecs()

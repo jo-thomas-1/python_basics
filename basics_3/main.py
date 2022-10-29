@@ -7,7 +7,7 @@
 # Note: Make sure to use a function which accepts the X and Y values and returns the FP value.
 
 def final_price(x, y):
-	return (x/y)**2
+	return x / (y ** 2)
 
 x = float(input("Enter product price of x: "))
 y = float(input("Enter product price of y: "))

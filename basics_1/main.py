@@ -14,7 +14,7 @@ print(movies)
 
 # List out the 4th element in the list.
 
-print(movies[4])
+print(movies[3])
 
 # Add additional item to the current list and display the list.
 

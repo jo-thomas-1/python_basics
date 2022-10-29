@@ -3,7 +3,6 @@ def month(x):
 	months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 	return months[x - 1]
 
-
 value = int(input("Enter the month value [1 - 12]: "))
 print("Month:", month(value))
 
@@ -13,7 +12,6 @@ def simple_interest(p, n, r):
 	# n - number of years
 	# r - rate of interest
 	return (p*n*r)/100
-
 
 principal = int(input("Enter the principal amount: "))
 years = int(input("Enter the duration in years: "))

@@ -15,6 +15,6 @@ file.close()
 # Write python code to add additional text to the existing file on a new line without deleting the previous contents.
 
 file = open("Fileprogram.txt", "a")
-content = "This is a new line"
+content = "\nThis is a new line"
 file.write(content)
 file.close()

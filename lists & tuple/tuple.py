@@ -11,4 +11,4 @@ fruits = tuple(temp)
 
 print("Updates tuple:", fruits)
 
-print("Index of the 2nd last element:", len(fruits) - 2)
+print("2nd last element:", fruits[-2])
