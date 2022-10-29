@@ -22,5 +22,9 @@ core python scripts for purpose of submission
 | 14  | Python GUI - Tkinter  | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/tkinter)             |
 | 15  | Text to speech        | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/text_to_speech)      |
 | 16  | QR Code generator     | [Go to code](https://github.com/jothomas1996/python_basics/tree/main/qr_code)             |
-|-----|-----------------------|-------------------------------------------------------------------------------------------|
-| 17   | Django Basics      | [Go to code](https://github.com/jothomas1996/django_basics)            |
+
+## Further Reference
+
+| # | Name | Action |
+| --- | --- | ---|
+| 1 | Django Basics | [Go to code](https://github.com/jothomas1996/django_basics) |
